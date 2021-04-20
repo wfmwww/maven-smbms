@@ -84,7 +84,7 @@ public class LoginController {
             return "login";
         }
         //return map;
-        return "redirect:/sys/user/userList.html";
+        return "redirect:/sys/main.html";
     }
 
 
